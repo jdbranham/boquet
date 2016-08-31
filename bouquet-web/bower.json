@@ -1,0 +1,29 @@
+{
+  "name": "boquet-web",
+  "version": "0.0.1",
+  "description": "Spring boot deployment container",
+  "dependencies": {
+    "bootstrap": "~3",
+    "bootswatch-dist": "3.3.6-darkly",
+    "angular": "~1.4",
+    "angular-resource": "~1.4",
+    "angular-mocks": "~1.4",
+    "angular-cookies": "~1.4",
+    "angular-animate": "~1.4",
+    "angular-touch": "~1.4",
+    "angular-sanitize": "~1.4",
+    "angular-bootstrap": "~0.11",
+    "angular-ui-utils": "~3",
+    "angular-ui-router": "~0.2",
+    "angular-ui-validate": "~1.2",
+    "angular-markdown-directive": "~0.3",
+    "ng-tags-input": "~3.0.0",
+    "string": "~3.3",
+    "moment": "~2.10",
+    "bootbox": "~4.4",
+    "jquery": "~1.9"
+  },
+  "resolutions": {
+    "angular": "~1.4"
+  }
+}
